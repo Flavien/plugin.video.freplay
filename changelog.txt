@@ -1,3 +1,8 @@
+Version 0.6.11
+  -Fixed 6play channels
+  -Support tetesaclaques.tv
+  -Update Gulli
+
 Version 0.6.10
   -Fixed Canal +
   -Renamed iTele to cNews
